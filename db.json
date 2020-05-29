@@ -1,0 +1,41 @@
+{
+    "weather":[
+        {
+        "city": "Pune",
+        "country": "India",
+        "temperature": "98° F ",
+        "humidity" : "71%",
+        "description": "Misty"
+        },
+        {
+        "city": "Mumbai",
+        "country": "India",
+        "temperature": "94° F ",
+        "humidity" : "63%",
+        "description": "Partly Cloudy"
+        },
+        {
+            "city": "Delhi",
+            "country": "India",
+            "temperature": "96° F ",
+            "humidity" : "46%",
+            "description": "Haze"
+            },
+            {
+                "city": "Banglore",
+                "country": "India",
+                "temperature": "88° F ",
+                "humidity" : "15%",
+                "description": "Partly Cloudy"
+                }
+            
+    ],
+    "conditions":[
+        {
+            "name":"misty"
+        },
+        {
+            "name": "cloudy"
+        }
+    ]
+}
